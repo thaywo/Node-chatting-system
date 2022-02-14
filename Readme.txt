@@ -16,4 +16,4 @@ Used Libraries:
 
 Tutorial Link is in my blog.
 
-// Developed by Ilker Guller http://developerarea.blogspot.com/
+// Developed by Thaywo http://github.com/Thaywo
